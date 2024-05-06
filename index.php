@@ -12,6 +12,7 @@
       <div class="col"></div>
       <div class="col">
         <h1>estoy en la rama principal</h1>
+        <h2> aqui estuvo juanketo xd</h2>
       </div>
       <div class="col"></div>
     </div>
