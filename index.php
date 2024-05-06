@@ -11,7 +11,7 @@
     <div class="row">
       <div class="col"></div>
       <div class="col">
-        <?php include_once "./view/login.php" ?>
+        <h1>estoy en la rama principal</h1>
       </div>
       <div class="col"></div>
     </div>
